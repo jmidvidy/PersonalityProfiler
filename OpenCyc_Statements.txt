@@ -1,0 +1,8 @@
+(isa collection PersonalityScore)
+(has-a PersonalityScore PersonalityTypeByPersonalityTrait)
+(isa Assertive PersonalityTypeByPersonalityTrait)
+(isa Extroverted PersonalityTypeByPersonalityTrait)
+(isa Intuitive PersonalityTypeByPersonalityTrait)
+(isa Judging PersonalityTypeByPersonalityTrait)
+(isa Thinking PersonalityTypeByPersonalityTrait)
+
